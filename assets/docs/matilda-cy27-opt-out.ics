@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Grower Central//Crop year dates//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:matilda-cy27-opt-out-20261215@grower-central.sunrice.com.au
+DTSTAMP:20261110T095428Z
+DTSTART:20261215T060000Z
+SUMMARY:Matilda CY27 contract opt-out deadline
+DESCRIPTION:Deadline to reduce or cancel contracted hectares under the CY27
+  Matilda Fixed Price Contract. 5pm AEDT (NSW). See the SunRice CY27 page f
+ or details.
+URL:https://www.sunrice.com.au/grower-central-ready-for-cy27
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
